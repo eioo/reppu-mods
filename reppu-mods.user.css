@@ -1,3 +1,12 @@
+/* ==UserStyle==
+@name         Reppu mods
+@version      1.0.0
+@author       StarlitGhost
+@homepageURL  https://github.com/eioo/reppu-mods
+@supportURL   https://github.com/eioo/reppu-mods/issues
+@updateURL    https://github.com/eioo/reppu-mods/master/reppu-mods.user.css
+==/UserStyle== */
+
 /* Full-width videos for forum posts  */
 .mediaplugin.mediaplugin_videojs > div {
     max-width: 100% !important;
