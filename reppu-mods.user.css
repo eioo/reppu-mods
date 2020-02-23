@@ -1,0 +1,4 @@
+/* Full-width videos for forum posts  */
+.mediaplugin.mediaplugin_videojs > div {
+    max-width: 100% !important;
+}
