@@ -10,6 +10,11 @@
 @-moz-document  regexp("^https?://reppu.(lamk|lab).fi/.+$")
 ==/UserStyle== */
 
+/* Fix dropdown menu margin-glitch */
+.navbar .dropdown-menu {
+    margin-top: 0px !important;
+}
+
 /* Full-width videos for forum posts  */
 .mediaplugin.mediaplugin_videojs > div {
     max-width: 100% !important;
